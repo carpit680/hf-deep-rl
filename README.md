@@ -8,4 +8,7 @@ This repo contains code that I wrote while learning Deep Reinforcement Learning.
 <img src="Assets/ppo-Huggy.gif" alt="Demo for PPO Huggy" width="100%">
 
 ## [carpit680/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/carpit680/q-FrozenLake-v1-4x4-noSlippery)
-<img src="Assets/frozen-lake.gif" alt="Demo for Frozen Lake Q Learning" width="100%">
+<img src="Assets/frozen-lake.gif" alt="Demo for Frozen Lake no slipping Q Learning" width="100%">
+
+## [carpit680/q-Taxi-v3](https://huggingface.co/carpit680/q-Taxi-v3)
+<img src="Assets/taxi.gif" alt="Demo for Taxi Q Learning" width="100%">
