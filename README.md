@@ -1,4 +1,5 @@
 # hf-deep-rl
+
 This repo contains code that I wrote while learning Deep Reinforcement Learning.
 
 ## [carpit680/ppo-LunarLander-v2](https://huggingface.co/carpit680/ppo-LunarLander-v2/tree/main/ppo-LunarLander-v2)
@@ -13,5 +14,5 @@ This repo contains code that I wrote while learning Deep Reinforcement Learning.
 ## [carpit680/q-Taxi-v3](https://huggingface.co/carpit680/q-Taxi-v3)
 <img src="Assets/taxi.gif" alt="Demo for Taxi Q Learning" width="100%">
 
-## [carpit680/q-Taxi-v3](https://huggingface.co/carpit680/q-Taxi-v3)
-<img src="Assets/taxi.gif" alt="Demo for Taxi Q Learning" width="100%">
+## [carpit680/dqn-SpaceInvadersNoFrameskip-v4](https://huggingface.co/carpit680/dqn-SpaceInvadersNoFrameskip-v4)
+<img src="Assets/spaceInvaders.gif" alt="Demo for SpaceInvaders using dqn" width="100%">
