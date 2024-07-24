@@ -12,3 +12,6 @@ This repo contains code that I wrote while learning Deep Reinforcement Learning.
 
 ## [carpit680/q-Taxi-v3](https://huggingface.co/carpit680/q-Taxi-v3)
 <img src="Assets/taxi.gif" alt="Demo for Taxi Q Learning" width="100%">
+
+## [carpit680/q-Taxi-v3](https://huggingface.co/carpit680/q-Taxi-v3)
+<img src="Assets/taxi.gif" alt="Demo for Taxi Q Learning" width="100%">
